@@ -77,7 +77,7 @@ def pushing(event):
             160: ' [SHIFT] ',
             161: ' [SHIFT] ',
             46: ' [DELETE] ',
-            32: ' [SPACE] ',
+            32: '   ',
             27: ' [ESC] ',
             9: ' [TAB] ',
             20: ' [CAPSLOCK] ',
